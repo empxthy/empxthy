@@ -2,7 +2,7 @@
  ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://badges.aleen42.com/src/vue.svg) and ![React](https://badges.aleen42.com/src/react.svg)<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
-    <img src="https://badges.aleen42.com/src/instagram.svg" href="https://www.instagram.com/darkedlord">
+    <img src="https://badges.aleen42.com/src/instagram.svg" href="https://www.instagram.com/darkedlord"><br>
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D59F7&center=true&vCenter=true&width=435&lines=Computer+sciene+student;Happy+Hacking!)](https://git.io/typing-svg)
     
 
