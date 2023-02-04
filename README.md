@@ -1,8 +1,9 @@
  ★ 👋 Hi, I'm @alexemployed<br>
- ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js<br>
+ ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) Vue Js and React Js<br>
  ★ 👀 I’m interested in programming<br>
- ★ 📫 How to reach me: <br><br>
-       <img src="https://simpleicons.org/icons/instagram.svg" style="padding: 0; margin: 0; width: 30px; height: 30px"> ---> @darkedlord
+ ★ 📫 How to reach me:<br>
+       Instagram ---> @darkedlord<br>
+       Twitter ---> @darkedlord<br>
 
 
 
