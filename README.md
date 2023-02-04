@@ -6,7 +6,7 @@
     <a href="https://www.twitter.com/darkedlord" style="color: #00B9FA">Twitter</a><br>
     <a href="https://www.linkedin.com/in/darkedlord/" style="color: #0048FA">LinkedIn</a><br>
     <a href="https://www.facebook.com/darkedlordd/" style="color: #0079FA">Facebook</a><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D59F7&center=true&vCenter=true&width=435&lines=Computer+sciene+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D59F7&center=true&vCenter=true&width=435&lines=Computer+sciene+student;Happy+Hacking!)](https://git.io/typing-svg)
  
 <!--
 **alexemployed/alexemployed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
