@@ -2,7 +2,8 @@
  ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://badges.aleen42.com/src/vue.svg) and ![React](https://badges.aleen42.com/src/react.svg)<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
-    <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C; margin-left: 10px;">Instagram</a><br>
+<!--     <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C; margin-left: 10px;">Instagram</a><br> -->
+    ![Instagram](https://badges.aleen42.com/src/instagram.svg)
     <a href="https://www.twitter.com/darkedlord" style="color: #00B9FA">Twitter</a><br>
     <a href="https://www.linkedin.com/in/darkedlord/" style="color: #0048FA">LinkedIn</a><br>
     <a href="https://www.facebook.com/darkedlordd/" style="color: #0079FA">Facebook</a><br>
