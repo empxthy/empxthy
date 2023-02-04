@@ -1,5 +1,5 @@
  ★ 👋 Hi, I'm @alexemployed<br>
- ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![React](https://badges.aleen42.com/src/react.svg)<br>
+ ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://badges.aleen42.com/src/vue.svg) and ![React](https://badges.aleen42.com/src/react.svg)<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
     <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C; margin-left: 10px;">Instagram</a><br>
