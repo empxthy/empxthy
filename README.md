@@ -6,6 +6,7 @@
     <a href="https://www.twitter.com/darkedlord"><img src="https://badges.aleen42.com/src/twitter.svg"></a><br>
     <a href="https://www.facebook.com/darkedlordd"><img src="https://badges.aleen42.com/src/facebook.svg"></a><br>
     <a href="https://t.me/darkedlord"><img src="https://badges.aleen42.com/src/telegram.svg"></a><br>
+    <a href="https://t.me/darkedlord"><img src="https://badges.aleen42.com/src/discord.svg">darkedlord#2616</a><br>
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D59F7&center=true&vCenter=true&width=435&lines=Computer+sciene+student;Happy+Hacking!)](https://git.io/typing-svg)
     
 
