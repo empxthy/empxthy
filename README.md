@@ -2,7 +2,7 @@
  ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me: 
-       <img src="https://pngicon.ru/file/uploads/instagram.png" style="display: block; max-width: 20px; max-height: 20px">
+       <img src="https://simpleicons.org/icons/instagram.svg" style="display: block; max-width: 20px; max-height: 20px">
 
 
 
