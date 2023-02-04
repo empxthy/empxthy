@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ★ 👋 Hi, I'm @alexemployed
+ ★ 👋 Hi, I'm @alexemployed\n
  ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js
  ★ 
