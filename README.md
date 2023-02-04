@@ -1,3 +1,9 @@
+ ★ 👋 Hi, I'm @alexemployed
+ ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js
+ ★ 
+
+
+
 <!--
 **alexemployed/alexemployed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ★ 👋 Hi, I'm @alexemployed\n
- ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js
- ★ 
+ 
