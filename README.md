@@ -2,8 +2,8 @@
  ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
-       Instagram ---> @darkedlord<br>
-       Twitter ---> @darkedlord<br>
+                           Instagram ---> @darkedlord<br>
+                           Twitter ---> @darkedlord<br>
 
 
 
