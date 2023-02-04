@@ -3,7 +3,7 @@
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
     <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C">Instagram</a><br>
-    <a href="">Twitter</a>
+    <a href="https://www.twitter.com/darkedlord" style="color: #">Twitter</a><br>
 
 <!--
 **alexemployed/alexemployed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
