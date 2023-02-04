@@ -1,4 +1,4 @@
- ★ 👋 Hi, I'm @alexemployed
+ ★ 👋 Hi, I'm @alexemployed<br>
  ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js
  ★ 
 
