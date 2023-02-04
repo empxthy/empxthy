@@ -7,6 +7,7 @@
     <a href="https://www.facebook.com/darkedlordd"><img src="https://badges.aleen42.com/src/facebook.svg"></a><br>
     <a href="https://t.me/darkedlord"><img src="https://badges.aleen42.com/src/telegram.svg"></a><br>
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=2002F7&center=true&vCenter=true&width=435&lines=Computer+science+student+%F0%9F%99%82;Happy+Hacking!+%F0%9F%98%88)](https://git.io/typing-svg)<br>
+    <h1>Web: </h1><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
     
