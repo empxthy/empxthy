@@ -2,7 +2,7 @@
  ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
-    <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C">Instagram</a><br>
+    <a href="https://www.instagram.com/darkedlord" style="color: #FC4B9C; margin-left: 10px;">Instagram</a><br>
     <a href="https://www.twitter.com/darkedlord" style="color: #00B9FA">Twitter</a><br>
     <a href="https://www.linkedin.com/in/darkedlord/" style="color: #0048FA">LinkedIn</a><br>
     <a href="https://www.facebook.com/darkedlordd/" style="color: #0079FA">Facebook</a><br>
