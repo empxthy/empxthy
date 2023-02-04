@@ -1,7 +1,7 @@
  ★ 👋 Hi, I'm @alexemployed<br>
  ★ 🌱 I’m currently learning typescript and js librarys like Vue Js and React Js<br>
  ★ 👀 I’m interested in programming<br>
- ★ 📫 How to reach me: <br>
+ ★ 📫 How to reach me: <br><br>
        <img src="https://simpleicons.org/icons/instagram.svg" style="display: block; width: 30px; height: 30px"> ---> @darkedlord
 
 
