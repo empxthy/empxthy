@@ -1,5 +1,5 @@
  ★ 👋 Hi, I'm @alexemployed<br>
- ★ 🌱 I’m currently learning bash script
+ ★ 🌱 I’m currently learning bash script<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
 
