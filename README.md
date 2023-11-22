@@ -1,5 +1,5 @@
  ★ 👋 Hi, I'm @alexemployed<br>
- ★ 🌱 I’m currently learning typescript and js librarys like ![Vue.js](https://badges.aleen42.com/src/vue.svg) and ![React](https://badges.aleen42.com/src/react.svg)<br>
+ ★ 🌱 I’m currently learning bash script
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
 
