@@ -1,7 +1,7 @@
   **★ 👋 Hi, I'm @alexemployed**<br>
-  ★ 🌱 I’m currently learning bash script<br>
-  ★ 👀 I’m interested in programming<br>
-  ★ 📫 How to reach me:<br>
+  **★ 🌱 I’m currently learning bash script**<br>
+  **★ 👀 I’m interested in programming**<br>
+  **★ 📫 How to reach me:**<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/emamedovvx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emamedovvx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emamedovvx) 
