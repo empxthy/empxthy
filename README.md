@@ -1,4 +1,4 @@
-** ★ 👋 Hi, I'm @alexemployed<br> **
+ ★ 👋 <strong>Hi, I'm @alexemployed</strong><br>
  ★ 🌱 I’m currently learning bash script<br>
  ★ 👀 I’m interested in programming<br>
  ★ 📫 How to reach me:<br>
