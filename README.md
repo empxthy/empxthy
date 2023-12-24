@@ -60,7 +60,6 @@ sh-6.9$ #!/usr/bin/python
 
 ### `~# head language.py`
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=alexemployed&theme=synthwave&show_icons=true"></a><br>
-
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexemployed&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
 ```python
