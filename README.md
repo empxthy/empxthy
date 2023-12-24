@@ -40,32 +40,16 @@ sh-6.9$ #!/usr/bin/python
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/htr-tech/zphisher">zphisher</a></td>
-        <td>An automated phishing tool with 30+ phishing templates.</td>
+        <td><a href="https://github.com/alexemployed/NetListenPro">NetListenPro</a></td>
+        <td>A script written in python which shows which TCP port's is open.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/modded-ubuntu/modded-ubuntu">modded-ubuntu</a></td>
-        <td>Run Ubuntu GUI on termux based on Proot-Distro.</td>
+        <td><a href="https://github.com/alexemployed/NetSafeGuard">NetSafeGuard</a></td>
+        <td>A script written in python which steals saved wifi's ssid and passwords (on progress)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse-Engineering</a></td>
-        <td>Some tools reverse engineered by me (mostly python).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/host">host</a></td>
-        <td>Temporarily Host Files from your device with this tool.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/Vigenere-Decoder">Vigenere-Decoder</a></td>
-        <td>Decode Vigenere cipher text just using the Flag Format!!</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/PyObfuscate">PyObfuscate</a></td>
-        <td>Python Code Obfuscator.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/htr-tech/public.repo">public.repo</a></td>
-        <td>A collection of codes for various purposes.</td>
+        <td><a href="https://github.com/alexemployed/Elixir">RElixir</a></td>
+        <td>Bash script with many functions for hacking ;) (on progress)</td>
     </tr>
 </table>
 
