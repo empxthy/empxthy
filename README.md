@@ -97,7 +97,7 @@ class Languages:
   </tr>
   <tr>
     <td>Samsung Galaxy Note 10</td>
-    <td>Android 12, OneUI 4</td>
+    <td>Android 12, OneUI 4.1</td>
     <td>Samsung Exynos 9825</td>
   </tr>
 </table>
