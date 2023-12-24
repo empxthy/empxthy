@@ -20,16 +20,16 @@ sh-6.9$ #!/usr/bin/python
 <a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 
 - I am a **student** 📚
-- I am from **Bangladesh** 🇧🇩 
-- Love of my life : **sleeping** 🛌
-- Dream: become a software engineer 💸
-- Fun Fact: I spend more time in **commenting**
+- I am from **Georgia** 🇬🇪 
+- Love of my life : **coffee drink** ☕
+- Dream: become a **Twitter** software engineer 💸
+- Fun Fact: I spend more time in **sleeping**
 
 ### Current Works:
 - Participating in CTF's.
-- Learning Golang.
-- Trying to get good marks in exams.
-- Working on some private projects.
+- Learning Bash.
+- Trying to create awesome programs.
+- Working on some my projects.
 <hr />
 
 ### `~# ls Projects`
