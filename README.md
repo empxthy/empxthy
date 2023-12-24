@@ -63,8 +63,10 @@ sh-6.9$ #!/usr/bin/python
 class Languages:
   def __init__(self):
     self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
+    self.clang = "C/C++ 💻"
+    self.netcore = "C# ♯"
+    self.webdev = "HTML/CSS/Javascript/Typescript 🌐"
+    self.bash = "Bash 🔩 (Learning)"
     self.future = "..."
 ```
 
@@ -79,19 +81,19 @@ class Languages:
     <th>Processor</th>
   </tr>
   <tr>
-    <td>Device 1</td>
+    <td>Device #1</td>
     <td>Windows 10 Pro</td>
-    <td>Intel Core i2</td>
+    <td>AMD Ryzen 5 5600H</td>
   </tr>
   <tr>
-    <td>Device 2</td>
-    <td>Xubuntu 22.04</td>
-    <td>-</td>
+    <td>Device #2</td>
+    <td>Kali Linux</td>
+    <td>AMD Ryzen 5 5600H</td>
   </tr>
   <tr>
-    <td>Samsung Galaxy ***</td>
+    <td>Samsung Galaxy Note 10</td>
     <td>Android 12, OneUI 4</td>
-    <td>Unisoc</td>
+    <td>Exynos 9825</td>
   </tr>
 </table>
 
