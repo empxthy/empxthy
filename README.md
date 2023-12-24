@@ -1,5 +1,5 @@
 <h2>Howdy , it's <i>Alex Mamedov 👋</i></h2>
-Just <b>Computer Sciente</b> students who loves <b>Linux/UNIX</b>.
+Just <b>Computer Sciente</b> student who loves <b>Linux/UNIX</b>.
 <br /><br />
 
 <pre>
@@ -10,8 +10,10 @@ sh-6.9$ #!/usr/bin/python
 </pre>
 
 <hr />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/emamedovvx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/emamedovvx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emamedovvx) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emamedovvx)
+
 <hr />
 
 # 💻 Tech Stack:
