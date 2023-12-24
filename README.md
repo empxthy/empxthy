@@ -17,7 +17,7 @@ sh-6.9$ #!/usr/bin/python
 <hr />
 
 ### `~# cat AboutMe`
-<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
+<a href="#"><img align="right" height=290 src="https://raw.githubusercontent.com/alexemployed/alexemployed/main/.github/misc/kali.png"></a>
 
 - I am a **student** 📚
 - I am from **Georgia** 🇬🇪 
