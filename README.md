@@ -93,8 +93,9 @@ class Languages:
   <tr>
     <td>Samsung Galaxy Note 10</td>
     <td>Android 12, OneUI 4</td>
-    <td>Exynos 9825</td>
+    <td>Samsung Exynos 9825</td>
   </tr>
 </table>
+<hr />
 
 <p><a href="https://www.buymeacoffee.com/emamedovvx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emamedovvx" /></a><a href="https://ko-fi.com/emamedovvx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emamedovvx" /></a></p><br><br>
