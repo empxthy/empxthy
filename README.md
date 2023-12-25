@@ -21,9 +21,9 @@ sh-6.9$ #!/usr/bin/python
 
 - I am a **student** 📚
 - I am from **Georgia** 🇬🇪 
-- Love of my life : **coffee drink** ☕
+- Love of my life : **Coffee drink** ☕
 - Dream: become a **Twitter** software engineer 💸
-- Fun Fact: I spend more time in **sleeping**
+- Fun Fact: I spend more time in **Coding**
 
 ### Current Works:
 - Participating in CTF's.
