@@ -59,7 +59,7 @@ sh-6.9$ #!/usr/bin/python
 <hr />
 
 ### `~# head language.py`
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=alexemployed&theme=radical&show_icons=true"></a>
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=alexemployed&theme=tokyonight&show_icons=true"></a>
 
 ```python
 class Languages:
