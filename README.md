@@ -16,7 +16,7 @@ sh-6.9$ #!/usr/bin/python
 
 <hr />
 
-### `~# cat AboutMe`
+### `~# cat AboutMe.cnf`
 <a href="#"><img align="right" height=290 src="https://raw.githubusercontent.com/alexemployed/alexemployed/main/.github/misc/kali.png"></a>
 
 - I am a **student** 📚
