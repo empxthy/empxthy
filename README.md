@@ -48,7 +48,7 @@ sh-6.9$ #!/usr/bin/python
         <td>A script written in python which steals saved wifi's ssid and passwords (on progress)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/alexemployed/Elixir">RElixir</a></td>
+        <td><a href="https://github.com/alexemployed/Elixir">Elixir</a></td>
         <td>Bash script with many functions for hacking ;) (on progress)</td>
     </tr>
 </table>
