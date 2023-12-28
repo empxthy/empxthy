@@ -3,7 +3,7 @@ Just <b>Computer Sciente</b> student who loves <b>Linux/UNIX</b>.
 <br /><br />
 
 <pre>
-sh-6.9$ #!/usr/bin/python
+sh-0.63$ #!/usr/bin/python
 ~#
 ~# ls
 <a href="#-cat-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-languagepy">language.py</a> <a href="#-sysinfo">sysinfo*</a>
