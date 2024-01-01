@@ -72,7 +72,7 @@ class Languages:
     self.future = "..."
 ```
 <br>
-<a href="#"><img align="right" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexemployed&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=300&hide_title=true&langs_count=6"></a><br>
+<a href="#"><img align="right" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexemployed&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=300&hide_title=true&langs_count=6"></a><br><br><br>
 
 <br/>
 <hr />
