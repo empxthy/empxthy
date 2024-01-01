@@ -6,7 +6,7 @@ Just <b>Computer Sciente</b> student who loves <b>Linux/UNIX</b>.
 sh-0.63$ #!/usr/bin/python
 ~#
 ~# ls
-<a href="#-cat-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-languagepy">language.py</a> <a href="#-neofetch">neofetch*</a> <a href="#-pybank">./pybank</a>
+<a href="#-cat-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-languagepy">language.py</a> <a href="#-neofetch">neofetch*</a> <a href="#-pybank">./PyBank</a>
 </pre>
 
 <hr />
@@ -107,5 +107,5 @@ class Languages:
 </table>
 <hr />
 
-### `~# PyBank (support)`
+### `~# PyBank`
 <p><a href="https://www.buymeacoffee.com/emamedovvx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emamedovvx" /></a><a href="https://ko-fi.com/emamedovvx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emamedovvx" /></a></p><br><br>
