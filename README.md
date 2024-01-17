@@ -1,4 +1,4 @@
-<h2>Howdy , it's <i>Alex Mamedov 👋</i></h2>
+<h2>Howdy , it's <i>Alex Mamedov 👋🥥</i></h2>
 Just <b>Computer Sciente</b> student who loves <b>Linux/UNIX</b>.
 <br /><br />
 
