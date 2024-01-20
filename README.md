@@ -40,19 +40,19 @@ sh-0.63$ #!/usr/bin/python
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/alexemployed/NetListenPro">NetListenPro</a></td>
+        <td><a href="https://github.com/empxthy/NetListenPro">NetListenPro</a></td>
         <td>A script written in python which shows which TCP port's is open.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/alexemployed/NetSafeGuard">NetSafeGuard</a></td>
+        <td><a href="https://github.com/empxthy/NetSafeGuard">NetSafeGuard</a></td>
         <td>A script written in python which steals saved wifi's ssid and passwords (on progress)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/alexemployed/PyLogger">PyLogger</a></td>
+        <td><a href="https://github.com/empxthy/PyLogger">PyLogger</a></td>
         <td>A script written in python which block's keyboard and send's report to email(on progress)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/alexemployed/Elixir">Elixir</a></td>
+        <td><a href="https://github.com/empxthy/Elixir">Elixir</a></td>
         <td>Bash script with many functions for hacking ;) (on progress)</td>
     </tr>
 </table>
