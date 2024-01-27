@@ -63,7 +63,7 @@ sh-0.63$ #!/usr/bin/python
 <hr />
 
 ### `~# head language.py`
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=alexemployed&theme=tokyonight&show_icons=true"></a>
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=empxthy&theme=tokyonight&show_icons=true"></a>
 
 ```python
 class Languages:
@@ -76,7 +76,7 @@ class Languages:
     self.future = "..."
 ```
 <br>
-<a href="#"><img align="right" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexemployed&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=300&hide_title=true&langs_count=6"></a><br><br><br>
+<a href="#"><img align="right" height=125 src="https://github-readme-stats.vercel.app/api/top-langs/?username=empxthy&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=300&hide_title=true&langs_count=6"></a><br><br><br>
 
 <br/>
 <hr />
