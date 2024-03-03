@@ -68,9 +68,10 @@ sh-0.63$ #!/usr/bin/python
 ```python
 class Languages:
   def __init__(self):
-    self.python = "Python 🐍"
     self.clang = "C/C++ 💻"
     self.netcore = "C# ♯"
+    self.javac = "Java ☕"
+    self.python = "Python 🐍"
     self.webdev = "HTML/CSS/Javascript/Typescript 🌐"
     self.bash = "Bash 🔩 (Learning)"
     self.future = "..."
