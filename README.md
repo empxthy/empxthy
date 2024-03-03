@@ -70,7 +70,7 @@ class Languages:
   def __init__(self):
     self.clang = "C/C++ 💻"
     self.netcore = "C# ♯"
-    self.javac = "Java :coffee:"
+    self.javac = "Java ☕"
     self.python = "Python 🐍"
     self.webdev = "HTML/CSS/Javascript/Typescript 🌐"
     self.bash = "Bash 🔩 (Learning)"
