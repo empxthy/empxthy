@@ -70,7 +70,7 @@ class Languages:
   def __init__(self):
     self.clang = "C/C++ 💻"
     self.netcore = "C# ♯"
-    self.javac = "Java ☕"
+    self.javac = "Java :coffee:"
     self.python = "Python 🐍"
     self.webdev = "HTML/CSS/Javascript/Typescript 🌐"
     self.bash = "Bash 🔩 (Learning)"
@@ -101,9 +101,9 @@ class Languages:
     <td>AMD Ryzen 5 5600H</td>
   </tr>
   <tr>
-    <td>Samsung Galaxy Note 10</td>
-    <td>Android 12, OneUI 4.1</td>
-    <td>Samsung Exynos 9825</td>
+    <td>iPhone 15 Pro 256GB</td>
+    <td>iOS 17.3</td>
+    <td>A17 PRO</td>
   </tr>
 </table>
 <hr />
