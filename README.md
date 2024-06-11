@@ -72,6 +72,7 @@ class Languages:
     self.netcore = "C# ♯"
     self.javac = "Java ☕"
     self.python = "Python 🐍"
+    self.rust = "Rust ⚙️"
     self.webdev = "HTML/CSS/Javascript/Typescript 🌐"
     self.bash = "Bash 🔩 (Learning)"
     self.future = "..."
